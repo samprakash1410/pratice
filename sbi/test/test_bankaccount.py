@@ -1,4 +1,3 @@
-
 from learn.account.account import BankAccount
 
 def test_bankaccount_basics():
