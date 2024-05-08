@@ -1,3 +1,6 @@
+"""
+This test cases test the institute structures
+"""
 from institute.institute.structure import Course, Student
 
 def test_student_course():
