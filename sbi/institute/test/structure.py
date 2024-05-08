@@ -1,4 +1,4 @@
-from Instituion.institute.structure import Course, Student
+from institute.institute.structure import Course, Student
 
 def test_student_course():
     """Testing the basic functionality
